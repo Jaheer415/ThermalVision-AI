@@ -1,0 +1,15 @@
+# Ignore datasets
+dataset/
+
+# Ignore training outputs
+runs/
+
+# Ignore weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
